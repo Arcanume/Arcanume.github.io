@@ -21,3 +21,14 @@
 ## 3.作业3
 本作业是统计2017年至2021年间每季度使用不同的语言Python, C, Java向github提交代码commit的次数，使用time line记录四个不同季度的提交情况。其中使用python最多，Java最少。
 [作业3链接](https://Arcanume.github.io/timeline_bar.html)
+
+
+# 第二次作业
+## 1. 设计了一个bing搜索引擎转发的网页
+[作业1链接](https://Arcanume.github.io/first.html)
+
+## 2. 设计了一个网页，介绍百度logo的一些设计理念，其中使用了css设计一些颜色风格特色
+[作业2链接](https://Arcanume.github.io/second.html)
+
+## 3. 对红楼梦第三回进行人物分析，关系图生成如下
+[作业3链接](https://Arcanume.github.io/redrelation.html)
