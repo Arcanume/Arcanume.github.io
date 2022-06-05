@@ -32,3 +32,8 @@
 
 ## 3. 对红楼梦第三回进行人物分析，关系图生成如下
 [作业3链接](https://Arcanume.github.io/redrelation.html)
+
+
+# 大作业
+[链接1](https://Arcanume.github.io/timeline_bar.html)
+[链接2]((https://Arcanume.github.io/aqi.html)
